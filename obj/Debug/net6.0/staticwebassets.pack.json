@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/maximilianengwall/MaxAxelMVCCMS/wwwroot/assets/css/style.min.css",
+      "PackagePath": "staticwebassets/assets/css/style.min.css"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.MaxAxelMVCCMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.MaxAxelMVCCMS.props",
+      "PackagePath": "build\\MaxAxelMVCCMS.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MaxAxelMVCCMS.props",
+      "PackagePath": "buildMultiTargeting\\MaxAxelMVCCMS.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MaxAxelMVCCMS.props",
+      "PackagePath": "buildTransitive\\MaxAxelMVCCMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "jEZJp8KymTA+I+RfkPAy5Aj4vvOOeK93n0ziAWgCiZY=",
+  "Source": "MaxAxelMVCCMS",
+  "BasePath": "_content/MaxAxelMVCCMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MaxAxelMVCCMS/wwwroot",
+      "Source": "MaxAxelMVCCMS",
+      "ContentRoot": "/Users/maximilianengwall/MaxAxelMVCCMS/wwwroot/",
+      "BasePath": "_content/MaxAxelMVCCMS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/maximilianengwall/MaxAxelMVCCMS/wwwroot/assets/css/style.min.css",
+      "SourceId": "MaxAxelMVCCMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/maximilianengwall/MaxAxelMVCCMS/wwwroot/",
+      "BasePath": "_content/MaxAxelMVCCMS",
+      "RelativePath": "assets/css/style.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/css/style.min.css"
+    }
+  ]
+}
